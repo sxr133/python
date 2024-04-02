@@ -1,0 +1,4 @@
+password-manager/build/*
+password-manager/dist/*
+password-manager/.idea/workspace.xml
+password-manager/main.spec
